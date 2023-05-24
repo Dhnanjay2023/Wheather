@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://static01.nyt.com/images/2014/12/11/technology/personaltech/11machin-illo/11machin-illo-superJumbo-v3.jpg?quality=75&auto=webp);
+}
+header{
+    max-width: 600px;
+    background-color: rgb(236, 235, 244);
+    color: blue;
+    border-radius: 7px;
+    margin: auto;
+    text-align: center;
+ }
+ .inputs{
+    max-width: 600px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: #5c5050;
+    margin: auto;    
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 30px;
+ }
+.display{
+    max-width: 600px;
+    height: 200px;
+    background-image: url();
+    /* border: 2px solid black; */
+    /* background-color: #7298f2; */
+    color: peru;
+    font-size: 30px;
+    margin: auto;    
+    text-align: center;
+    border-radius: 7px;
+}
+#add{
+    font-size: 50px;
+}
+#cityinput{
+    font-size: 40px;
+}
